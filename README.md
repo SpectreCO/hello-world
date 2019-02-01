@@ -1,2 +1,9 @@
 # hello-world
 The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!
+Hi everyone...
+Ummm...
+Not so good when it comes to communication as you can tell.
+I love games yet don't have a decent console.
+Seems like I'm gonna run on emulators all my life.
+...
+SpectreCO out!
